@@ -1,1 +1,2 @@
 # Patent-Verification-Blockchain
+It includes users, blockchain network, external decentralized storage, external certificate authority, and clients. Unlike permissionless blockchain platforms such as Bitcoin and Ethereum, certificate authorities are introduced into the system to authenticate both the nodes and clients connected to the blockchain network. Malicious clients or nodes which do not have valid certificates cannot access the network.
